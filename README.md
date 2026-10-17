@@ -1,6 +1,10 @@
-Christine Mweru | Python Developer | Automation & AI Tools
+Hi, I'm Christine Mweru Mwangi 👋
 
-Building practical tools that solve actual problems. Based in Nairobi, Kenya.
+Software Engineer | Python Developer | Web Development & ERP Integration | Automation & AI Tools
+
+I'm a Software Engineer based in Kenya with 4+ years of experience developing, customizing, and integrating software solutions. I enjoy solving real-world business problems through technology, building reliable applications, and automating business processes.
+
+My work focuses on software development, web applications, Odoo ERP customization, API integrations, and quality assurance. I'm also expanding my knowledge of Artificial Intelligence and machine learning.
 <!--
 **Mweruu/Mweruu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
