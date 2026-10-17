@@ -1,5 +1,6 @@
-## Hi there 👋
+Christine Mweru | Python Developer | Automation & AI Tools
 
+Building practical tools that solve actual problems. Based in Nairobi, Kenya.
 <!--
 **Mweruu/Mweruu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
